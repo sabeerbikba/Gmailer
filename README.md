@@ -37,4 +37,4 @@ $mail->Username = "your-email@gmail.com";
 $mail->Password = "your-gmail-app-password";
 $mail->SetFrom("your-email@gmail.com");
 ```
-![Screenshot](https://raw.githubusercontent.com/sabeerbikba/gmailer/images/screenshot2.jpg)
+![Screenshot](images/screenshot2.jpg)
